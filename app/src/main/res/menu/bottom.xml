@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Prayer"
+        android:icon="@drawable/prayer"
+        android:title="Prayer">
+
+    </item>
+    <item
+        android:id="@+id/Anthem"
+        android:icon="@drawable/ic_baseline_music_note_24"
+        android:title="Anthem">
+
+    </item>
+    <item
+        android:id="@+id/News"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="News">
+
+    </item>
+    <item
+        android:id="@+id/Mass"
+        android:icon="@drawable/ic_baseline_category_24"
+        android:title="Mass">
+
+    </item>
+    <item
+        android:id="@+id/More"
+        android:icon="@drawable/ic_baseline_more_vert_24"
+        android:title="More">
+
+    </item>
+
+
+</menu>
